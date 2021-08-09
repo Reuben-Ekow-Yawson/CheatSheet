@@ -1,0 +1,40 @@
+body{
+    background-color: aquamarine;
+    font-family: Arial, sans-serif;
+}
+h1{
+    text-align: center;
+    font-family: georgia;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    color: #343d58;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+}
+
+table {
+    border: 3px solid rgb(47, 44, 48);
+    width: 700px;
+    margin: 0px auto;
+  }
+  
+  thead {
+    background-color: rgb(150, 231, 143);
+    color: black;
+    font-weight: bold;
+    margin: 0px auto;
+  }
+  
+  td {
+    border-top: 3px dashed rgb(47, 44, 48);
+    padding: 0px auto;
+    
+  }
+  tr{
+    border-top: 9px dashed rgb(47, 44, 48);
+  } 
+  .mid{
+    text-align: center;
+  }
